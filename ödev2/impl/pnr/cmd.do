@@ -1,0 +1,10 @@
+-d C:\Users\serve\OneDrive\Belgeler\fpga_project_odev2\impl\gwsynthesis\fpga_project_odev2.vg
+-p GW1NZ-1-QFN48-6
+-pn GW1NZ-LV1QN48C6/I5
+-cfg C:\Users\serve\OneDrive\Belgeler\fpga_project_odev2\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 10
